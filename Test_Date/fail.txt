@@ -1,0 +1,8 @@
+ error :assert_suc() takes 2 positional arguments but 3 were given
+ error :Message: Unable to locate element: .//*[@id='app']/div[1]/div/ul/li[5]/a
+
+ error :Message: Expected [object Undefined] undefined to be a string
+
+ error :Message: Unable to locate element: .//*[@id='app']/div[1]/div/ul/li[5]/a
+
+ error :module 'time' has no attribute 'strtime'

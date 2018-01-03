@@ -1,0 +1,91 @@
+1496730571336	geckodriver	INFO	Listening on 127.0.0.1:53085
+1496730573366	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.RGP3hDNRW17a
+1496730573369	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496730573392	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54610
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1496730574049	Marionette	INFO	Listening on port 54610
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496730632607	geckodriver	INFO	Listening on 127.0.0.1:61067
+1496730634666	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.BtZiYHhxiueM
+1496730634669	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496730634745	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63105
+1496730635816	Marionette	INFO	Listening on port 63105
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496730757360	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.08unVQE67HK9
+1496730718080	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496730718202	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62249
+1496730720987	Marionette	INFO	Listening on port 62249
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496730878911	geckodriver	INFO	Listening on 127.0.0.1:64509
+1496730880942	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.CJ4leO9eu8yE
+1496730880945	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496730880967	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65425
+1496730881596	Marionette	INFO	Listening on port 65425
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496731005159	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.GylCoX5J5rKh
+1496730934947	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496730934977	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57474
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1496730935672	Marionette	INFO	Listening on port 57474
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496731005998	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.tpOG2TewThVB
+1496731005338	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496731005429	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52935
+1496731006309	Marionette	INFO	Listening on port 52935
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496731433259	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.AcNQDeKplYQ2
+1496731086553	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496731086576	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57114
+1496731087193	Marionette	INFO	Listening on port 57114
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496731434273	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.WHjckZSpXjmo
+1496731299799	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496731299876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59335
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1496731300977	Marionette	INFO	Listening on port 59335
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496731437930	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1496731485296	geckodriver	INFO	Listening on 127.0.0.1:62072
+1496731487339	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.QFyre3lGPJLb
+1496731487342	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496731487364	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62712
+1496731487894	Marionette	INFO	Listening on port 62712
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496731564665	geckodriver	INFO	Listening on 127.0.0.1:52969
+1496731566718	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.efRMlzGcbqjp
+1496731566720	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496731566755	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54512
+1496731567625	Marionette	INFO	Listening on port 54512
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496732195808	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1496732207610	geckodriver	INFO	Listening on 127.0.0.1:59175
+1496732209683	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.bYta3vMbVCsn
+1496732209686	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496732209733	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60961
+1496732210692	Marionette	INFO	Listening on port 60961
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496732278479	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.3p5RPtjGiQSB
+1496732261635	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496732261775	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57394
+1496732263710	Marionette	INFO	Listening on port 57394
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496732379945	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.rIQopFzOPlLF
+1496732310644	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496732310695	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60093
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1496732311703	Marionette	INFO	Listening on port 60093
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496732419031	geckodriver	INFO	Listening on 127.0.0.1:62129
+1496732421057	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.LnkXduvZrypo
+1496732421061	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1496732421080	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62497
+1496732421604	Marionette	INFO	Listening on port 62497
+JavaScript error: http://stg-firm.ichengke.cn/, line 1: TypeError: location.href is not a function
+1496732541750	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
